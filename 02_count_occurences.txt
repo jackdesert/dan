@@ -1,0 +1,24 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Javascript
+
+var text = 'the day my daughter handed over her piggy bank in an effort to help solve my self made financial crisis i still had all three of my luxury cars parked in the driveway i was still a member of the country club i never went to and had a ton of recurring expenses that quite frankly and even more embarrassing i could not name'
+
+// 1. Count the number of words in the variable `text`
+
+// 2. Count the number of unique words
+
+// 3. Find which words in `text` occur more than once
+
+#######################################
+
+# Python
+
+text = 'the day my daughter handed over her piggy bank in an effort to help solve my self made financial crisis i still had all three of my luxury cars parked in the driveway i was still a member of the country club i never went to and had a ton of recurring expenses that quite frankly and even more embarrassing i could not name'
+
+# 1. Count the number of words in the variable `text`
+
+# 2. Count the number of unique words
+
+# 3. Find which words in `text` occur more than once
+
