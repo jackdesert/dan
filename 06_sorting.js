@@ -1,4 +1,4 @@
-// Challenge 5: Sorting
+// Challenge 5: Sorting in JavaScript
 //
 // For this assignment, do not use any built-in methods for sorting.
 // You may, however, use the '>' and '<' operators.
